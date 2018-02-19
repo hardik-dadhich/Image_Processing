@@ -11,3 +11,7 @@ affecting the colour intemscity and change the filter
 
 #output of amplify_color.py for amplify perticular color of image
 ![alt tag](https://user-images.githubusercontent.com/25060629/36355558-12630f44-150b-11e8-8fd2-924924d67e0a.jpg)
+
+
+#output of bitwise_operations.py file showing different operations on images uisng opencv functions
+![alt tag](https://user-images.githubusercontent.com/25060629/36391273-e0cf33c4-15cb-11e8-9c95-21c90fa5ab97.png)
