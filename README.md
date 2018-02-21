@@ -15,3 +15,7 @@ affecting the colour intemscity and change the filter
 
 #output of bitwise_operations.py file showing different operations on images uisng opencv functions
 ![alt tag](https://user-images.githubusercontent.com/25060629/36391273-e0cf33c4-15cb-11e8-9c95-21c90fa5ab97.png)
+
+
+#out of erosionAndDailation.py (it will show broad and thick image of oigional image)
+![alt tag](https://user-images.githubusercontent.com/25060629/36481975-a63b1bf2-1737-11e8-99c0-83e0388c7e25.png)
