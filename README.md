@@ -19,3 +19,7 @@ affecting the colour intemscity and change the filter
 
 #out of erosionAndDailation.py (it will show broad and thick image of oigional image)
 ![alt tag](https://user-images.githubusercontent.com/25060629/36481975-a63b1bf2-1737-11e8-99c0-83e0388c7e25.png)
+
+
+#outcome of obj_detect_img.py for finding the perticular person in group photos. using matchtemplate algo
+![alt atg](https://user-images.githubusercontent.com/25060629/36603627-63811f9a-18e1-11e8-9b83-24121e7f97ae.png)
